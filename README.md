@@ -1,2 +1,2 @@
-# estudos-wordpress
-Repositório de um dos sites desenvolvidos em estudos de WordPress
+# development-wordpress
+Repositório de um site desenvolvido em estudos de WordPress.
